@@ -12,10 +12,6 @@ Built as part of the **Crixsoft Solution Web Development Internship** 🚀
 
 ---
 
-## 📸 Preview
-
-![Wildvine Preview](./readme-images/desktop.png)
-
 ## ✨ Features
 
 - 🏠 **Hero Section** — mission-driven headline with a prominent donation call-to-action
@@ -61,7 +57,7 @@ wildvine/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<abrarquadri>/Crixsoft-Solution_Wildvine-Charity-Website.git
+git clone https://github.com/<abrarquadri24>/Crixsoft-Solution_Wildvine-Charity-Website.git
 
 # Navigate into the project folder
 cd Crixsoft-Solution_Wildvine-Charity-Website
@@ -85,9 +81,8 @@ This project was completed as part of the **Web Development Internship at Crixso
 
 ## 📬 Contact
 
-**Crixsoft Solution**
-🌐 [www.crixsoftsolution.com](http://www.crixsoftsolution.com)
-📧 info@crixsoftsolution.com
+**Abrar Quadri**
+
 💼 [LinkedIn](https://www.linkedin.com/in/abrarquadri)
 
 ## 📄 License
